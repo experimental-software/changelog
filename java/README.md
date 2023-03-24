@@ -1,3 +1,13 @@
+# Java Changelog
+
+## 19
+
+```
+sdk use java 19.0.2-tem
+```
+
 ## References
 
-- https://dev.to/cricketsamya/gradle-with-dependabot-1o47
+- https://en.wikipedia.org/wiki/Java_version_history
+- https://javaalmanac.io/
+- https://sdkman.io
