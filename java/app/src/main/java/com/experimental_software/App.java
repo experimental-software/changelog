@@ -1,11 +1,13 @@
 package com.experimental_software;
 
+record Bar(String qux) {}
+
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        var o = new Bar("foo");
+        if (o instanceof Bar bar) {
+            System.out.println(bar.qux());
+        }
     }
 }
