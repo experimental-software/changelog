@@ -1,3 +1,8 @@
+# Java Changelog
+
+## 19
+
 ## References
 
-- https://dev.to/cricketsamya/gradle-with-dependabot-1o47
+- https://en.wikipedia.org/wiki/Java_version_history
+- https://javaalmanac.io/
