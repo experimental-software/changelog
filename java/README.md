@@ -2,9 +2,7 @@
 
 ## 19
 
-```
-sdk use java 19.0.2-tem
-```
+- [JEP 422: Linux/RISC-V Port](./doc/core/19/jep-422-linuxrisc-v-port)
 
 ## References
 
