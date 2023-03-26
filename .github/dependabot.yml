@@ -8,3 +8,19 @@ updates:
     directory: "/java/"
     schedule:
       interval: "daily"
+  - package-ecosystem: "docker"
+    directory: "/dart/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "docker"
+    directory: "/flutter/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "docker"
+    directory: "/gradle/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "npm"
+    directory: "/typescript/"
+    schedule:
+      interval: "daily"
