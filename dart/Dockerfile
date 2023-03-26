@@ -1,2 +1,2 @@
 # https://hub.docker.com/_/dart
-FROM dart:2.19.0
+FROM dart:2.18
