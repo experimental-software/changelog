@@ -7,5 +7,7 @@ assignees: ''
 
 ---
 
-- [ ] Links to specification
+**TODO**
+
+- [ ] Links to specification
 - [ ] Create branch in [java-sandbox](https://github.com/experimental-software/java-sandbox) project
