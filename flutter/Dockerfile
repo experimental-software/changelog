@@ -1,2 +1,2 @@
-# https://hub.docker.com/r/cirrusci/flutter/tags
-FROM cirrusci/flutter:3.7.0
+# https://hub.docker.com/r/mobiledevops/flutter-sdk-image/tags
+FROM mobiledevops/flutter-sdk-image:3.7.8
