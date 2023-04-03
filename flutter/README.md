@@ -1,7 +1,7 @@
 # Flutter Changelog
 
 [What’s new](https://docs.flutter.dev/whats-new) |
-[Hotfixes to the Stable Channel](https://github.com/flutter/flutter/wiki/Hotfixes-to-the-Stable-Channel) |
+[Hotfixes to the Stable Channel](https://github.com/flutter/flutter/wiki/Hotfixes-to-the-Stable-Channel)
 
 ## Version history
 
