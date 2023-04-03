@@ -1,5 +1,8 @@
 # Flutter Changelog
 
+[What’s new](https://docs.flutter.dev/whats-new) |
+[Hotfixes to the Stable Channel](https://github.com/flutter/flutter/wiki/Hotfixes-to-the-Stable-Channel) |
+
 ## Version history
 
 ### 3.7.0
@@ -9,7 +12,6 @@
 
 ## References
 
-- [Hotfixes to the Stable Channel](https://github.com/flutter/flutter/wiki/Hotfixes-to-the-Stable-Channel)
 - [Flutter release notes](https://docs.flutter.dev/development/tools/sdk/release-notes)
 - https://github.com/flutter/flutter/tags
 - [Flutter design documents](https://docs.flutter.dev/resources/design-docs)
