@@ -2,7 +2,11 @@
 
 ## Version history
 
+
+
 ### ECMA-262
+
+[Compatibility tables](https://kangax.github.io/compat-table/es2016plus)
 
 #### 13th edition, June 2022
 
