@@ -1,4 +1,3 @@
-# https://github.com/marketplace/actions/dependabot-auto-merge
 name: auto-merge
 
 on:
@@ -9,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ahmadnassri/action-dependabot-auto-merge@v2
+      # https://github.com/jmewes/action-dependabot-auto-merge
+      - uses: jmewes/action-dependabot-auto-merge@master
         with:
-          github-token: ${{ secrets.mytoken }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
