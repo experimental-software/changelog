@@ -23,6 +23,12 @@
 
 - [JEP 409: Sealed Classes](./doc/jep-409-sealed-classes/README.md)
 
+## Libraries
+
+### JUnit
+
+- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+
 ## References
 
 - https://docs.oracle.com/javase/specs/
