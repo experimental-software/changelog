@@ -2,6 +2,11 @@
 
 ## Version history
 
+### 3.0
+
+- [Announcing Dart 3](https://medium.com/dartlang/announcing-dart-3-53f065a10635)
+- [Changelog](https://github.com/dart-lang/sdk/blob/main/CHANGELOG.md#300---2023-05-10)
+
 ### 2.19
 
 [Announcement](https://groups.google.com/a/dartlang.org/g/announce/c/9U9RgGLe3OQ) |
