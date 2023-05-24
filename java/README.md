@@ -23,6 +23,12 @@
 
 - [JEP 409: Sealed Classes](./doc/jep-409-sealed-classes/README.md)
 
+### 16
+
+- [JEP 397: Sealed Classes (Second Preview)](https://openjdk.java.net/jeps/397)
+- [JEP 395: Records](https://openjdk.java.net/jeps/395)
+- [JEP 394: Pattern Matching for instanceof](https://openjdk.java.net/jeps/394)
+
 ## Libraries
 
 ### JUnit
