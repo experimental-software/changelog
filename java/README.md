@@ -8,8 +8,8 @@
 [Release notes](https://www.oracle.com/java/technologies/javase/20all-relnotes.html) |
 [Specification](https://docs.oracle.com/javase/specs/jls/se20/html/index.html)
 
-- [JEP 433: Pattern Matching for switch (Fourth Preview)](https://openjdk.java.net/jeps/433)
-- [JEP 432: Record Patterns (Second Preview)](https://openjdk.java.net/jeps/432)
+- [JEP 433: Pattern Matching for switch (Fourth Preview)](https://docs.oracle.com/javase/specs/jls/se20/preview/specs/patterns-switch-record-patterns-jls.html)
+- [JEP 432: Record Patterns (Second Preview)](https://docs.oracle.com/javase/specs/jls/se20/preview/specs/patterns-switch-record-patterns-jls.html)
 
 ### 19
 
@@ -39,7 +39,7 @@
 [Release notes](https://www.oracle.com/java/technologies/javase/16all-relnotes.html) |
 [Specification](https://docs.oracle.com/javase/specs/jls/se16/html/index.html)
 
-- [JEP 397: Sealed Classes (Second Preview)](https://openjdk.java.net/jeps/397)
+- [JEP 397: Sealed Classes (Second Preview)](https://docs.oracle.com/javase/specs/jls/se16/preview/specs/sealed-classes-jls.html)
 - [JEP 395: Records](https://openjdk.java.net/jeps/395)
 - [JEP 394: Pattern Matching for instanceof](https://openjdk.java.net/jeps/394)
 
@@ -49,9 +49,9 @@
 [Release notes](https://www.oracle.com/java/technologies/javase/15all-relnotes.html) |
 [Specification](https://docs.oracle.com/javase/specs/jls/se15/html/index.html)
 
-- [JEP 360: Sealed Classes (Preview)](https://openjdk.java.net/jeps/360)
-- [JEP 384: Records (Second Preview)](https://openjdk.java.net/jeps/384)
-- [JEP 375: Pattern Matching for instanceof (Second Preview)](https://openjdk.java.net/jeps/375)
+- [JEP 360: Sealed Classes (Preview)](https://docs.oracle.com/javase/specs/jls/se15/preview/specs/sealed-classes-jls.html)
+- [JEP 384: Records (Second Preview)](https://docs.oracle.com/javase/specs/jls/se15/preview/specs/records-jls.html)
+- [JEP 375: Pattern Matching for instanceof (Second Preview)](https://docs.oracle.com/javase/specs/jls/se15/preview/specs/patterns-instanceof-jls.html)
 - [JEP 378: Text Blocks](https://openjdk.java.net/jeps/378)
 
 ### 14
@@ -60,9 +60,8 @@
 [Release notes](https://www.oracle.com/java/technologies/javase/14all-relnotes.html) |
 [Specification](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
 
-- [JEP 305: Pattern Matching for instanceof (Preview) ](https://openjdk.java.net/jeps/305)
-- [JEP 359: Records (Preview)](https://openjdk.java.net/jeps/359)
-- [JEP 375: Pattern Matching for instanceof (Second Preview)](https://openjdk.java.net/jeps/375)
+- [JEP 305: Pattern Matching for instanceof (Preview)](https://docs.oracle.com/javase/specs/jls/se14/preview/specs/patterns-instanceof-jls.html)
+- [JEP 359: Records (Preview)](https://docs.oracle.com/javase/specs/jls/se14/preview/specs/records-jls.html)
 - [JEP 361: Switch Expressions (Standard)](https://openjdk.java.net/jeps/361)
 
 ### 13
@@ -71,8 +70,8 @@
 [Release notes](https://www.oracle.com/java/technologies/javase/13all-relnotes.html) |
 [Specification](https://docs.oracle.com/javase/specs/jls/se13/html/index.html)
 
-- [JEP 355: Text Blocks (Preview)](https://openjdk.java.net/jeps/355)
-- [JEP 354: Switch Expressions (Second Preview)](https://openjdk.java.net/jeps/354)
+- [JEP 355: Text Blocks (Preview)](https://docs.oracle.com/javase/specs/jls/se13/preview/switch-expressions.html)
+- [JEP 354: Switch Expressions (Second Preview)](https://docs.oracle.com/javase/specs/jls/se13/preview/text-blocks.html)
 
 ### 12
 
@@ -80,7 +79,7 @@
 [Release notes](https://www.oracle.com/java/technologies/javase/12all-relnotes.html) |
 [Specification](https://docs.oracle.com/javase/specs/jls/se12/html/index.html)
 
-- [JEP 325: Switch Expressions (Preview)](https://openjdk.java.net/jeps/325)
+- [JEP 325: Switch Expressions (Preview)](https://docs.oracle.com/javase/specs/jls/se12/preview/switch-expressions.html)
 
 ## Libraries
 
