@@ -43,6 +43,45 @@
 - [JEP 395: Records](https://openjdk.java.net/jeps/395)
 - [JEP 394: Pattern Matching for instanceof](https://openjdk.java.net/jeps/394)
 
+### 15
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/15/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/15all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se15/html/index.html)
+
+- [JEP 360: Sealed Classes (Preview)](https://openjdk.java.net/jeps/360)
+- [JEP 384: Records (Second Preview)](https://openjdk.java.net/jeps/384)
+- [JEP 375: Pattern Matching for instanceof (Second Preview)](https://openjdk.java.net/jeps/375)
+- [JEP 378: Text Blocks](https://openjdk.java.net/jeps/378)
+
+### 14
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/14/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/14all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
+
+- [JEP 305: Pattern Matching for instanceof (Preview) ](https://openjdk.java.net/jeps/305)
+- [JEP 359: Records (Preview)](https://openjdk.java.net/jeps/359)
+- [JEP 375: Pattern Matching for instanceof (Second Preview)](https://openjdk.java.net/jeps/375)
+- [JEP 361: Switch Expressions (Standard)](https://openjdk.java.net/jeps/361)
+
+### 13
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/13/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/13all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se13/html/index.html)
+
+- [JEP 355: Text Blocks (Preview)](https://openjdk.java.net/jeps/355)
+- [JEP 354: Switch Expressions (Second Preview)](https://openjdk.java.net/jeps/354)
+
+### 12
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/12/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/12all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se12/html/index.html)
+
+- [JEP 325: Switch Expressions (Preview)](https://openjdk.java.net/jeps/325)
+
 ## Libraries
 
 ### JUnit
