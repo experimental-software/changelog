@@ -16,10 +16,10 @@ updates:
     directory: "/dart/"
     schedule:
       interval: "daily"
-  - package-ecosystem: "docker"
-    directory: "/flutter/"
-    schedule:
-      interval: "daily"
+  #- package-ecosystem: "docker"
+  #  directory: "/flutter/"
+  #  schedule:
+  #    interval: "daily"
   - package-ecosystem: "docker"
     directory: "/gradle/"
     schedule:
