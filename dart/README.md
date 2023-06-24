@@ -4,7 +4,7 @@
 
 ### 3.0
 
-[[Announcement]](https://medium.com/dartlang/announcing-dart-3-53f065a10635) |
+[Announcement](https://medium.com/dartlang/announcing-dart-3-53f065a10635) |
 [Changelog](https://github.com/dart-lang/sdk/blob/main/CHANGELOG.md#300---2023-05-10)
 
 - [switch expression](https://github.com/dart-lang/language/blob/a620967/accepted/future-releases/0546-patterns/feature-specification.md#switch-expression)
