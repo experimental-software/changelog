@@ -2,8 +2,17 @@
 
 ## Projects
 
-- [Spring Framework](./doc/spring-framework.md)
-- [Spring Boot](./doc/spring-boot.md)
+### Spring Framework
+
+- https://github.com/spring-projects/spring-framework/releases
+- https://search.maven.org/search?q=g:org.springframework%20AND%20a:spring
+
+
+### Spring Boot
+
+- https://github.com/spring-projects/spring-boot/releases
+- https://spring.io/projects/spring-boot
+- https://github.com/spring-projects/spring-boot/wiki#release-notes
 
 ## Maintenance
 
