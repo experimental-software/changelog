@@ -89,6 +89,7 @@
 
 ## References
 
+- https://docs.oracle.com/en/java/javase/
 - https://docs.oracle.com/javase/specs/
 - https://javaalmanac.io/
 - https://en.wikipedia.org/wiki/Java_version_history
