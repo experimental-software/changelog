@@ -5,13 +5,13 @@
 ### Spring Framework
 
 - https://github.com/spring-projects/spring-framework/releases
-- https://search.maven.org/search?q=g:org.springframework%20AND%20a:spring
+- [Maven Central Repository Search | search.maven.org](https://search.maven.org/search?q=g:org.springframework%20AND%20a:spring)
 
 
 ### Spring Boot
 
 - https://github.com/spring-projects/spring-boot/releases
-- https://spring.io/projects/spring-boot
+- [https://spring.io/projects/spring-boot | spring.io](https://spring.io/projects/spring-boot)
 - https://github.com/spring-projects/spring-boot/wiki#release-notes
 
 ## Maintenance
@@ -25,4 +25,4 @@ Run the following command to check that the project configuration is still valid
 ## References
 
 - https://github.com/spring-projects
-- https://spring.io/projects
+- [https://spring.io/projects | spring.io](https://spring.io/projects)

@@ -89,8 +89,8 @@
 
 ## References
 
-- https://docs.oracle.com/en/java/javase/
-- https://docs.oracle.com/javase/specs/
-- https://javaalmanac.io/
-- https://en.wikipedia.org/wiki/Java_version_history
-- https://sdkman.io
+- [Java Platform, Standard Edition Documentation - Releases | docs.oracle.com](https://docs.oracle.com/en/java/javase/)
+- [Java SE Specifications | docs.oracle.com](https://docs.oracle.com/javase/specs/)
+- [The Java Version Almanac - javaalmanac.io | javaalmanac.io](https://javaalmanac.io/)
+- [Java version history - Wikipedia | en.wikipedia.org](https://en.wikipedia.org/wiki/Java_version_history)
+- [Home - SDKMAN! the Software Development Kit Manager | sdkman.io](https://sdkman.io)

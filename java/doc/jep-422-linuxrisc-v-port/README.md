@@ -16,6 +16,6 @@ So, with this change, Java usage will be enabled for this new kind of computer a
 
 ## References
 
-- https://openjdk.org/jeps/422
-- https://www.youtube.com/watch?v=Ps0JFsyX2fU
-- https://en.wikipedia.org/wiki/RISC-V
+- [JEP 422: Linux/RISC-V Port | openjdk.org](https://openjdk.org/jeps/422)
+- [Explaining RISC-V: An x86 & ARM Alternative - YouTube | youtube.com](https://www.youtube.com/watch?v=Ps0JFsyX2fU)
+- [RISC-V - Wikipedia | en.wikipedia.org](https://en.wikipedia.org/wiki/RISC-V)

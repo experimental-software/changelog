@@ -5,6 +5,10 @@
 
 ## Version history
 
+### 3.13.0
+
+- [https://medium.com/flutter/whats-new-in-flutter-3-13-479d9b11df4d | medium.com](https://medium.com/flutter/whats-new-in-flutter-3-13-479d9b11df4d)
+
 ### 3.10.0
 
 - [Flutter at Google I/O 2023 | youtube.com](https://www.youtube.com/playlist?list=PLjxrf2q8roU1523hIgnNX4r6ukX72QYLg)
@@ -20,6 +24,7 @@
 
 ## References
 
+- [Flutter - YouTube | youtube.com](https://www.youtube.com/@flutterdev)
 - [Flutter release notes](https://docs.flutter.dev/development/tools/sdk/release-notes)
 - https://github.com/flutter/flutter/tags
 - [Flutter design documents](https://docs.flutter.dev/resources/design-docs)

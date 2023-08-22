@@ -48,9 +48,9 @@ npm install
 
 ## References
 
-- https://tc39.es/
+- [TC39 - Specifying JavaScript. | tc39.es](https://tc39.es/)
 - https://github.com/tc39/ecma262/tags
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-- https://en.wikipedia.org/wiki/ECMAScript
+- [JavaScript technologies overview - JavaScript | MDN | developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview)
+- [ECMAScript - Wikipedia | en.wikipedia.org](https://en.wikipedia.org/wiki/ECMAScript)
 - https://github.com/tc39/ecma402
 - https://github.com/Microsoft/TypeScript
