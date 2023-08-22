@@ -7,7 +7,7 @@
 
 ### 3.13.0
 
-- [https://medium.com/flutter/whats-new-in-flutter-3-13-479d9b11df4d | medium.com](https://medium.com/flutter/whats-new-in-flutter-3-13-479d9b11df4d)
+- [What’s new in Flutter 3.13 | medium.com](https://medium.com/flutter/whats-new-in-flutter-3-13-479d9b11df4d)
 
 ### 3.10.0
 

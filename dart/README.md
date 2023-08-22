@@ -4,7 +4,7 @@
 
 ### 3.1
 
-- [https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda | medium.com](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
+- [Dart 3.1 & a retrospective on functional style programming in Dart 3 | medium.com](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 - [CHANGELOG](https://github.com/dart-lang/sdk/blob/main/CHANGELOG.md#310)
 
 ### 3.0
@@ -28,7 +28,7 @@
 ## References
 
 - [Dart - Medium | medium.com](https://medium.com/dartlang)
-- https://github.com/dart-lang/sdk/blob/main/CHANGELOG.md
+- [Changelog | github.com](https://github.com/dart-lang/sdk/blob/main/CHANGELOG.md) 
 - [Language specification | Dart | dart.dev](https://dart.dev/guides/language/spec)
 - [Dart Announcements - Google Groups | groups.google.com](https://groups.google.com/a/dartlang.org/g/announce)
 - https://github.com/dart-lang/language/tree/master/accepted
