@@ -2,6 +2,12 @@
 
 ## Version history
 
+### 21
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/21/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/21all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se21/html/index.html)
+
 ### 20
 
 [Java Language Changes](https://docs.oracle.com/en/java/javase/20/language/java-language-changes.html) |
