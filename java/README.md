@@ -10,6 +10,7 @@
 
 - [JEP 440: Record Patterns](https://openjdk.org/jeps/440)
 - [JEP 441: Pattern Matching for switch](https://openjdk.org/jeps/441)
+- [JEP 444: Virtual threads](https://openjdk.org/jeps/444)
 - [JEP 430: String Templates (Preview)](https://openjdk.org/jeps/430)
 - [JEP 443: Unnamed Patterns and Variables (Preview)](https://openjdk.org/jeps/443)
 - [JEP 445: Unnamed Classes and Instance Main Methods (Preview)](https://openjdk.org/jeps/445)
@@ -101,6 +102,7 @@
 
 ## References
 
+- https://blogs.oracle.com/javamagazine/
 - [Java Platform, Standard Edition Documentation - Releases | docs.oracle.com](https://docs.oracle.com/en/java/javase/)
 - [Java SE Specifications | docs.oracle.com](https://docs.oracle.com/javase/specs/)
 - [The Java Version Almanac - javaalmanac.io | javaalmanac.io](https://javaalmanac.io/)
