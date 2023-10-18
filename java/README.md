@@ -8,12 +8,19 @@
 [Release notes](https://www.oracle.com/java/technologies/javase/21all-relnotes.html) |
 [Specification](https://docs.oracle.com/javase/specs/jls/se21/html/index.html)
 
+**Language Features**
+
 - [JEP 440: Record Patterns](https://openjdk.org/jeps/440)
 - [JEP 441: Pattern Matching for switch](https://openjdk.org/jeps/441)
-- [JEP 444: Virtual threads](https://openjdk.org/jeps/444)
 - [JEP 430: String Templates (Preview)](https://openjdk.org/jeps/430)
 - [JEP 443: Unnamed Patterns and Variables (Preview)](https://openjdk.org/jeps/443)
 - [JEP 445: Unnamed Classes and Instance Main Methods (Preview)](https://openjdk.org/jeps/445)
+
+**Libraries Improvements**
+
+- [JEP 444: Virtual threads](https://openjdk.org/jeps/444)
+- [JEP 431: Sequenced Collections](https://openjdk.org/jeps/431)
+- [JEP 452: Key Encapsulation Mechanism API](https://openjdk.org/jeps/452)
 
 ### 20
 
