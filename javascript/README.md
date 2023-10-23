@@ -28,5 +28,5 @@ npm install
 ## References
 
 - https://en.wikipedia.org/wiki/ECMAScript_version_history
-- https://compat-table.github.io/compat-table/es6/
+- https://compat-table.github.io/compat-table/es2016plus/
 - [TC39 - Specifying JavaScript. | tc39.es](https://tc39.es/)
