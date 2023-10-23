@@ -1,12 +1,14 @@
 {
-  "name": "javascript_changelog",
+  "name": "typescript_changelog",
   "version": "1.0.0",
-  "description": "Watches out for changes in the JavaScript ecosystem",
+  "description": "Watches out for changes in the TypeScript language",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "MIT",
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "5.1.3"
+  }
 }
