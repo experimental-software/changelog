@@ -106,6 +106,7 @@
 ### JUnit
 
 - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+- https://junit.org/junit5/docs/5.10.1/release-notes/
 
 ## References
 
