@@ -4,6 +4,7 @@
 
 ### Spring Framework
 
+- [Reference documentation](https://docs.spring.io/spring-framework/reference/)
 - https://github.com/spring-projects/spring-framework/releases
 - [Maven Central Repository Search | search.maven.org](https://search.maven.org/search?q=g:org.springframework%20AND%20a:spring)
 
