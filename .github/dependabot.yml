@@ -29,5 +29,5 @@ updates:
     schedule:
       interval: "daily"
     ignore:
-      - dependency-name: "github-linguist"
+      - dependency-name: "typescript"
         update-types: ["version-update:semver-patch"]
