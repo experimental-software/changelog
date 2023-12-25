@@ -1,29 +1,52 @@
 version: 2
 updates:
-  - package-ecosystem: "gradle" 
-    directory: "/java/" 
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "gradle" 
-    directory: "/spring/" 
-    schedule:
-      interval: "daily"
+
+  # JDK
   - package-ecosystem: "docker"
     directory: "/java/"
     schedule:
       interval: "daily"
+
+  # Java ecosystem
+  - package-ecosystem: "gradle" 
+    directory: "/java/" 
+    schedule:
+      interval: "daily"
+
+  # Spring
+  - package-ecosystem: "gradle" 
+    directory: "/spring/" 
+    schedule:
+      interval: "daily"
+
+  # Dart
   - package-ecosystem: "docker"
     directory: "/dart/"
     schedule:
       interval: "daily"
+
+  # Flutter
   #- package-ecosystem: "docker"
   #  directory: "/flutter/"
   #  schedule:
   #    interval: "daily"
+
+  # Gradle
   - package-ecosystem: "docker"
     directory: "/gradle/"
     schedule:
       interval: "daily"
+
+  # Git
+  - package-ecosystem: "docker"
+    directory: "/git/"
+    schedule:
+      interval: "daily"
+    ignore:
+      - dependency-name: "bitnami/git"
+        update-types: ["version-update:semver-patch"]
+
+  # Typescript
   - package-ecosystem: "npm"
     directory: "/typescript/"
     schedule:
