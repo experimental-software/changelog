@@ -5,6 +5,11 @@
 
 ## Version history
 
+### 3.19
+
+- [Starting 2024 strong with Flutter and Dart](https://medium.com/flutter/starting-2024-strong-with-flutter-and-dart-cae9845264fe)
+- [What’s new in Flutter 3.19](https://medium.com/flutter/whats-new-in-flutter-3-19-58b1aae242d2)
+
 ### 3.13.0
 
 - [What’s new in Flutter 3.13 | medium.com](https://medium.com/flutter/whats-new-in-flutter-3-13-479d9b11df4d)
