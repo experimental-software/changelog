@@ -2,6 +2,14 @@
 
 ## Version history
 
+### 3.3
+
+- [New in Dart 3.3: Extension Types, JavaScript Interop, and More | medium.com](https://medium.com/dartlang/dart-3-3-325bf2bf6c13)
+
+### 3.2
+
+- [Announcing Dart 3.2 | medium.com](https://medium.com/dartlang/dart-3-2-c8de8fe1b91f)
+
 ### 3.1
 
 - [Dart 3.1 & a retrospective on functional style programming in Dart 3 | medium.com](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
