@@ -1,6 +1,5 @@
 version: 2
 updates:
-
   # JDK
   - package-ecosystem: "docker"
     directory: "/java/"
@@ -8,14 +7,14 @@ updates:
       interval: "daily"
 
   # Java ecosystem
-  - package-ecosystem: "gradle" 
-    directory: "/java/" 
+  - package-ecosystem: "gradle"
+    directory: "/java/"
     schedule:
       interval: "daily"
 
   # Spring
-  - package-ecosystem: "gradle" 
-    directory: "/spring/" 
+  - package-ecosystem: "gradle"
+    directory: "/spring/"
     schedule:
       interval: "daily"
 
@@ -42,9 +41,6 @@ updates:
     directory: "/git/"
     schedule:
       interval: "daily"
-    ignore:
-      - dependency-name: "bitnami/git"
-        update-types: ["version-update:semver-patch"]
 
   # Typescript
   - package-ecosystem: "npm"
@@ -54,3 +50,9 @@ updates:
     ignore:
       - dependency-name: "typescript"
         update-types: ["version-update:semver-patch"]
+
+  # Wordpress
+  - package-ecosystem: "docker"
+    directory: "/wordpress/"
+    schedule:
+      interval: "daily"
