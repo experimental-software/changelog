@@ -16,7 +16,7 @@
 - [JEP 456: Unnamed Variables & Patterns](https://openjdk.org/jeps/456)
 - [JEP 459: String Templates (Second Preview)](https://openjdk.org/jeps/459)
 - [JEP 463: Implicitly Declared Classes and Instance Main Methods (Second Preview)](https://openjdk.org/jeps/463)
-
+  
 **Libraries Improvements**
 
 - [JEP 454: Foreign Function & Memory API](https://openjdk.org/jeps/454)
