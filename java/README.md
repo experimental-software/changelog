@@ -2,6 +2,23 @@
 
 ## Version history
 
+### 22
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/22all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se22/html/index.html)
+
+**Language Features**
+
+- [JEP 447: Statements before super(...) (Preview)](https://openjdk.org/jeps/447)
+- [JEP 456: Unnamed Variables & Patterns](https://openjdk.org/jeps/456)
+- [JEP 459: String Templates (Second Preview)](https://openjdk.org/jeps/459)
+- [JEP 463: Implicitly Declared Classes and Instance Main Methods (Second Preview)](https://openjdk.org/jeps/463)
+
+**Libraries Improvements**
+
+- [JEP 454: Foreign Function & Memory API](https://openjdk.org/jeps/454)
+
 ### 21
 
 [Java Language Changes](https://docs.oracle.com/en/java/javase/21/language/java-language-changes.html) |
