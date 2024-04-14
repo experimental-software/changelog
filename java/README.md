@@ -1,5 +1,7 @@
 # Java Changelog
 
+[Java SE Specifications](https://docs.oracle.com/javase/specs/) • [Java Magazine](https://blogs.oracle.com/javamagazine/)
+
 ## Version history
 
 ### 22
