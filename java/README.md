@@ -8,7 +8,8 @@
 
 [Java Language Changes](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html) |
 [Release notes](https://www.oracle.com/java/technologies/javase/22all-relnotes.html) |
-[Specification](https://docs.oracle.com/javase/specs/jls/se22/html/index.html)
+[Specification](https://docs.oracle.com/javase/specs/jls/se22/html/index.html) |
+[Java 22 and IntelliJ IDEA](https://blog.jetbrains.com/idea/2024/03/java-22-and-intellij-idea/)
 
 **Language Features**
 
