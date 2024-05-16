@@ -5,6 +5,12 @@
 
 ## Version history
 
+### 3.22
+
+- [Landing Flutter 3.22 and Dart 3.4 at Google I/O 2024](https://medium.com/flutter/io24-5e211f708a37)
+- [What’s new in Flutter 3.22](https://medium.com/flutter/whats-new-in-flutter-3-22-fbde6c164fe3)
+- [Announcing Dart 3.4](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)
+
 ### 3.19
 
 - [Starting 2024 strong with Flutter and Dart](https://medium.com/flutter/starting-2024-strong-with-flutter-and-dart-cae9845264fe)
