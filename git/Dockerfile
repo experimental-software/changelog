@@ -1,2 +1,2 @@
 # https://hub.docker.com/r/bitnami/git
-FROM bitnami/git:2.45.2
+FROM bitnami/git:2.46.0
