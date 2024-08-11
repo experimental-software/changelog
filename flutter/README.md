@@ -5,7 +5,7 @@
 
 ## Version history
 
-### 3.24
+### 3.24 (Aug 2024)
 
 - https://medium.com/flutter/flutter-3-24-dart-3-5-204b7d20c45d
 - https://medium.com/flutter/whats-new-in-flutter-3-24-6c040f87d1e4
