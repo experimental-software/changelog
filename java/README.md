@@ -4,6 +4,44 @@
 
 ## Version history
 
+### 23
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/23/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/23all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se23/html/index.html)
+
+**Language Features**
+
+Primitive Types in Patterns, instanceof, and switch (Preview)
+- https://openjdk.org/jeps/455
+
+Module Import Declarations (Preview)
+- https://openjdk.org/jeps/476
+
+Flexible Constructor Bodies (Second Preview)
+- https://openjdk.org/jeps/482
+
+Implicitly Declared Classes and Instance Main Methods (Third Preview)
+- https://openjdk.org/jeps/469
+
+**Libraries Improvements**
+
+Class-File API (Second Preview)
+- https://openjdk.org/jeps/466
+
+Stream Gatherers (Second Preview)
+- https://openjdk.org/jeps/473
+
+Structured Concurrency (Third Preview)
+- https://openjdk.org/jeps/480
+
+Scoped Values (Third Preview)
+- https://openjdk.org/jeps/481
+
+Vector API (Eighth Incubator)
+- https://openjdk.org/jeps/481
+
+
 ### 22
 
 [Java Language Changes](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html) |
