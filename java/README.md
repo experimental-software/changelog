@@ -23,7 +23,6 @@
 - [JEP 473: Stream Gatherers (Second Preview) | openjdk.org](https://openjdk.org/jeps/473)
 - [JEP 480: Structured Concurrency (Third Preview) | openjdk.org](https://openjdk.org/jeps/480)
 - [JEP 481: Scoped Values (Third Preview) | openjdk.org](https://openjdk.org/jeps/481)
-- [JEP 481: Scoped Values (Third Preview) | openjdk.org](https://openjdk.org/jeps/481)
 
 ### 22
 
