@@ -2,6 +2,11 @@
 
 https://github.blog/
 
+## 2.47.0
+
+- https://github.blog/open-source/git/highlights-from-git-2-47/
+- https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.47.0.txt
+
 ## 2.46.0
 
 - https://github.blog/open-source/git/highlights-from-git-2-46/
