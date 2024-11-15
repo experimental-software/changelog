@@ -1,2 +1,2 @@
 # https://hub.docker.com/_/wordpress
-FROM wordpress:6.6.2
+FROM wordpress:6.7.0
