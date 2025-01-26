@@ -2,9 +2,13 @@
 
 ## Version history
 
+### 5.7
+
+- https://devblogs.microsoft.com/typescript/announcing-typescript-5-7
+
 ### 5.4.
 
-- [Announcing TypeScript 5.4 | devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
+- https://devblogs.microsoft.com/typescript/announcing-typescript-5-4
 
 ### 5.2
 
