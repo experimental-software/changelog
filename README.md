@@ -4,8 +4,8 @@ Helps to keep track of software infrastructure changes
 
 ## Podcasts
 
-- https://se-radio.net
-- https://bootifulpodcast.podbean.com
+- [Software Engineering Radio](https://se-radio.net)
+- [A Bootiful Podcast | Josh Long](https://podcasts.apple.com/us/podcast/a-bootiful-podcast/id1438691771)
 - [Inside Java Podcast](https://inside.java/podcast)
 - [TechLead.Journal()](https://techleadjournal.dev/episodes/)
 
