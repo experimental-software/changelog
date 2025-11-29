@@ -50,9 +50,3 @@ updates:
     ignore:
       - dependency-name: "typescript"
         update-types: ["version-update:semver-patch"]
-
-  # Wordpress
-  - package-ecosystem: "docker"
-    directory: "/wordpress/"
-    schedule:
-      interval: "daily"
