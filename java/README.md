@@ -4,6 +4,18 @@
 
 ## Version history
 
+### 25
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/25/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/25all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se25/html/index.html)
+
+### 24
+
+[Java Language Changes](https://docs.oracle.com/en/java/javase/24/language/java-language-changes.html) |
+[Release notes](https://www.oracle.com/java/technologies/javase/24all-relnotes.html) |
+[Specification](https://docs.oracle.com/javase/specs/jls/se24/html/index.html)
+
 ### 23
 
 [Java Language Changes](https://docs.oracle.com/en/java/javase/23/language/java-language-changes.html) |
