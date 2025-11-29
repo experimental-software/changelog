@@ -2,25 +2,26 @@
 
 https://github.blog/
 
+## 2.49.0
+
+- https://github.blog/open-source/git/highlights-from-git-2-49/
+
 ## 2.48.0
 
 - https://github.blog/open-source/git/highlights-from-git-2-48/
-- https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.48.0.txt
 
 ## 2.47.0
 
 - https://github.blog/open-source/git/highlights-from-git-2-47/
-- https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.47.0.txt
+
 
 ## 2.46.0
 
 - https://github.blog/open-source/git/highlights-from-git-2-46/
-- https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.46.0.txt
 
 ## 2.45.0
 
 - https://github.blog/2024-04-29-highlights-from-git-2-45/
-- https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.45.0.txt
 
 ## 2.43.0
 
