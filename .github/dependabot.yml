@@ -13,10 +13,10 @@ updates:
       interval: "daily"
 
   # Spring
-  - package-ecosystem: "gradle"
-    directory: "/spring/"
-    schedule:
-      interval: "daily"
+  #- package-ecosystem: "gradle"
+  #  directory: "/spring/"
+  #  schedule:
+  #    interval: "daily"
 
   # Dart
   # - package-ecosystem: "docker"
