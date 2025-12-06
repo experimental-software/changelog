@@ -9,7 +9,7 @@
 
 ## Newsletter
 
-- https://www.baeldung.com/category/weekly-review
+- [Weekly Review | baeldung.com](https://www.baeldung.com/category/weekly-review)
 
 ## Podcasts
 
