@@ -1,6 +1,6 @@
 # Changelog
 
-> Helps to keep pace with of software infrastructure changes
+> Helps to keep pace with software infrastructure changes
 
 ## Basics
 
