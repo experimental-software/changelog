@@ -9,7 +9,7 @@
 
 ## Newsletter
 
-- [Weekly Review | baeldung.com](https://www.baeldung.com/category/weekly-review)
+- [The Java Weekly | baeldung.com](https://www.baeldung.com/)
 
 ## Podcasts
 
