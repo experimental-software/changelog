@@ -1,1 +1,1 @@
-FROM amazoncorretto:25
+FROM amazoncorretto:26
